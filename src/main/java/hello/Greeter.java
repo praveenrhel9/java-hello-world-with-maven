@@ -16,6 +16,17 @@ public class UseHelp {
         System.out.println("  status  - Show current status");
         System.out.println("  help    - Show this help message");
     }
+	public class UseHelp1 {
+
+    // Method to display general help
+    public static void showGeneralHelp() {
+        System.out.println("=== Application Help ===");
+        System.out.println("Available commands:");
+        System.out.println("  start   - Start the application");
+        System.out.println("  stop    - Stop the application");
+        System.out.println("  status  - Show current status");
+        System.out.println("  help    - Show this help message");
+    }
 
     // Method to display help for a specific command
     public static void showCommandHelp(String command) {
