@@ -16,7 +16,7 @@ public class UseHelp {
         System.out.println("  status  - Show current status");
         System.out.println("  help    - Show this help message");
     }
-	public class UseHelp1 {
+	public class UseHelp2{
 
     // Method to display general help
     public static void showGeneralHelp() {
