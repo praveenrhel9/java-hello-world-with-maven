@@ -6,7 +6,7 @@ public class Greeter {
     }
 }
 
-public class UseHelp2 {
+public class UseHelp {
 
     // Method to display general help
     public static void showGeneralHelp() {
