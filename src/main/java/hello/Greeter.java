@@ -17,7 +17,7 @@ public class UseHelp {
         System.out.println("  help    - Show this help message");
     }
 
-	public class UseHelp2{
+	public class UseHelp3{
 
     // Method to display general help
     public static void showGeneralHelp() {
