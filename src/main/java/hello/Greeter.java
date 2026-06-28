@@ -5,7 +5,8 @@ public class Greeter {
         return "DevOps Project for AchiStar Technologies";
     }
 }
-public class UseHelp {
+
+public class UseHelp2 {
 
     // Method to display general help
     public static void showGeneralHelp() {
